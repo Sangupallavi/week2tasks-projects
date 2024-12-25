@@ -1,0 +1,27 @@
+
+body{
+
+    height: 100px;
+    display:block;
+    place-content: center;
+
+}
+table{
+width: 700px;
+background-image: url("https://img.freepik.com/premium-vector/multicolor-low-poly-style-gradient_33767-240.jpg");
+
+}
+table,th,td{
+    padding: 30px;
+    border: 1000px;
+    text-align:center;
+}
+th{
+    background-color: lightpink;
+    color:blue;
+
+}
+td{
+    background-color: lightblue;
+    color :blue;
+}
